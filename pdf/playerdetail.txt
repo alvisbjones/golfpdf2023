@@ -1,6 +1,6 @@
 
  Handicaps updated
- 23/07/12 11:59:46
+ 23/07/12 12:13:05
 -----Player Detail Score Report-------------
 --(scores listed new to old, right to left)-
 --------------------------------------------
@@ -312,9 +312,9 @@ Thomas Schattner (4.6)-> 8 lowest
 
 48 49 48 40* 45 49 40* 48 45 40* 42* 41* 40* 51 41* 51 53 54 39* 45  
 ----------------------------------------
-Jeff Seekatz (7.2)-> 1 lowest
+Jeff Seekatz (2.7)-> 1 lowest
 
-43* 43 43  
+43 38 38*  
 ----------------------------------------
 Justin Seymour (9.4)-> 8 lowest
 
